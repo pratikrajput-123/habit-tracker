@@ -1,0 +1,17 @@
+/* src/components/CalendarSection.css */
+.rbc-calendar {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .rbc-header {
+    background-color: #1976d2; /* MUI primary color */
+    color: white;
+  }
+  
+  .rbc-selected {
+    background-color: #ff5722; /* MUI secondary color */
+    color: white;
+  }
+  
+  /* Add more custom styles as needed */
+  
